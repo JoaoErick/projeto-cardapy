@@ -20,11 +20,7 @@ Este projeto foi desenvolvido com o auxílio das tecnologias:
 
 - ✔️ Composer
 
-- ✔️ Bootstrap
-
-- ✔️ Google Fonts
-
-- ✔️ MySQL  
+- ✔️ Bootstrap 
 
 ## 🙋🏾‍♂️ Autor  
 João Erick Barbosa
